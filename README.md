@@ -48,15 +48,7 @@ The project includes various plots to understand the dataset better:
 - Bar plots and pie charts for categorical insights.
 
 ## How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/students-grading-analysis.git
-   ```
-2. Install dependencies:
-   ```sh
-   pip install pandas numpy matplotlib seaborn
-   ```
-3. Run the Jupyter Notebook to see the analysis and visualizations.
+
 
 ## Conclusion
 This project provides insights into students' grading patterns using statistical and visualization techniques. It helps in understanding key factors affecting performance and suggests areas for further investigation.
