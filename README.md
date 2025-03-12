@@ -74,8 +74,6 @@ The project includes various plots to understand the dataset better:
 - Heatmaps for correlation visualization.
 - Bar plots and pie charts for categorical insights.
 
-## How to Use
-
 
 ## Conclusion
 This project provides insights into students' grading patterns using statistical and visualization techniques. It helps in understanding key factors affecting performance and suggests areas for further investigation.
