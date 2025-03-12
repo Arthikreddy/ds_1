@@ -11,6 +11,8 @@ The dataset consists of students' academic records, including numerical and cate
 - Identifying correlations between variables.
 - Detecting and handling missing values and outliers.
 - Performing univariate, bivariate, and multivariate analysis.
+
+
 ##DATA
 - Student_ID: Unique identifier for each student
 -First_Name: First name of the student
